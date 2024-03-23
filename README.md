@@ -54,11 +54,6 @@ The design of the dashboard webpage is important, and it is visually appealing, 
 
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## Run Locally
 
 ### Clone the project
