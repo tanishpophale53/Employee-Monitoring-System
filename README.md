@@ -42,3 +42,4 @@ The pygsheets library is a Python library that provides a simple interface to in
 
 3. Working Methodology - 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
