@@ -1,4 +1,4 @@
-# H1 Employee Monitoring System
+# Employee Monitoring System
 
 1. Abstract -
    
