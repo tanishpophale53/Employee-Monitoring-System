@@ -48,6 +48,9 @@ The sign up page contains a small capture window which captures the user's face 
 
 #### Landing Page ( Home Page): 
 
+![Raksha EMS - HomeImage](https://github.com/tanishpophale53/Employee-Monitoring-System/assets/71888416/5c47e60a-adb9-4032-b795-eb7bfb261f4a)
+
+
 Our website typically allows users to navigate to a sign up page or dashboard page. The Landing page typically contains a capturing section which takes the continuous feed from the camera, gets trained using computer vision algorithms, and detects whether the employee or bunch of employees face from the camera feed matches in from the database. If matched, it will draw a rectangle with the name of the person mentioned above the rectangle as well as mark the attendance of that employee or bunch of employees present in the camera feed and will update the entry of that employee of a company.
 
 
