@@ -1,5 +1,6 @@
 
 
+
 # Employee Monitoring System
 
 Nowadays, many companies are using a stop and wait attendance system to mark the attendance of the employees in a company which includes either an app to mark the attendance when the employee comes in the office premise or their is a system which scans the face of the employee for which employee needs to wait and mark the attendance. Sometimes, if a bunch of employees come at a time, then these employees need to wait to mark their attendance which takes a minimum of 5 to 10 minutes. When it comes to a company's point of view, then these 5 to 10 minutes or more of each employee can be a trot to the company. What if these 5 to 10 minutes of each employee in the worst case can be saved. So to address the above problem, the software named as Employee Monitoring System can be game changing for companies which provides the real time employee monitoring feature reducing 5 to 10 minutes of employees time. The employee need not have to wait to mark the attendance. As the employee is moving towards the entrance gate, the software through the camera attached over the entrance gate will automatically catch the employee's face and the attendance will be marked for that day.
@@ -35,11 +36,14 @@ Nowadays, many companies are using a stop and wait attendance system to mark the
 
 #### Sign Up Page (Registration Page) : 
 
+![Raksha EMS - Registration Image](https://github.com/tanishpophale53/Employee-Monitoring-System/assets/71888416/3dffe7f8-11fb-464a-9f2b-3942fe4d729e)
+
 The sign-up page is a web page where our users can register themselves. This page typically contains a form where users can enter their personal information, such as their employee id, full name, email address, mobile no, permanent address, pincode, designation and a small capture window which captures the user's face.
 
 The sign-up page requires the user to enter their mobile no that meets certain criteria, such as containing exactly 10 numbers of characters.  The users are also asked to enter the valid and correct email id.
 
 The sign up page contains a small capture window which captures the user's face as soon as the capture button is clicked. After filling all the information and capturing the face, as soon as the user clicks on the submit button, the entire information of the user is stored in the database. 
+
 
 
 #### Landing Page ( Home Page): 
