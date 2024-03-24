@@ -54,6 +54,9 @@ Our website typically allows users to navigate to a sign up page or dashboard pa
 
 #### Dashboard Page ( Report Window): 
 
+![Raksha EMS - Dashboard Image](https://github.com/tanishpophale53/Employee-Monitoring-System/assets/71888416/ca211cd1-d038-4248-beba-c1b25d4c1749)
+
+
 A dashboard web page is a result page typically a page that displays listings of employees attendance data. This page is generally for managers or the person who actively tracks the attendance and manages the leaves of the employees in a company. Apart from that, this page contains a search function that allows users to filter properties based on the preferences, such as start date - end date, name, employee id, and other features.
 
 The design of the dashboard webpage is important, and it is visually appealing, easy to navigate. Overall, our dashboard webpage is user-friendly and provides users with the information they need to make informed decisions about their attendance search. The webpage is updated regularly to ensure that the listings are accurate and up-to-date.
