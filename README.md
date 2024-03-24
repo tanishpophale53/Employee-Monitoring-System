@@ -31,7 +31,8 @@ Nowadays, many companies are using a stop and wait attendance system to mark the
 
 #### User FlowChart
 
-![EMS FlowChart](https://github.com/tanishpophale53/Employee-Monitoring-System/assets/71888416/616a995e-2c10-441c-95e1-c9a260178488)
+![EMS FlowChart](https://github.com/tanishpophale53/Employee-Monitoring-System/assets/71888416/e5e846d1-828b-40a5-87b9-fb830ead970c)
+
 
 
 #### Sign Up Page (Registration Page) : 
