@@ -1,3 +1,4 @@
+![EMS FlowChart](https://github.com/tanishpophale53/Employee-Monitoring-System/assets/71888416/5eb55b3d-0777-4990-83e5-9cb25c39bdad)
 
 # Employee Monitoring System
 
@@ -26,6 +27,10 @@ Nowadays, many companies are using a stop and wait attendance system to mark the
 
 
 ## Working Methodology
+
+#### User FlowChart
+
+![EMS FlowChart](https://github.com/tanishpophale53/Employee-Monitoring-System/assets/71888416/5eb55b3d-0777-4990-83e5-9cb25c39bdad)
 
 #### Sign Up Page (Registration Page) : 
 
