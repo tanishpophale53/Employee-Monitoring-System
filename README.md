@@ -76,7 +76,7 @@ The design of the dashboard webpage is important, and it is visually appealing, 
 ### Clone the project
 
 ```bash
-  git clone https://github.com/tanishpophale53/Employee-Monitoring-System
+  git clone https://github.com/tanishpophale53/Raksha-Employee-Monitoring-System
 ```
 
 ### Go to the project directory
