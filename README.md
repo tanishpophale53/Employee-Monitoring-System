@@ -109,7 +109,7 @@ https://shorturl.at/aosD8
 
 #### How to connect the sqlite data to google sheets?
 
-One can use pygsheets library of python in order to connect the sqlite data to google sheets. 
+One can use pygsheets library of python in order to connect the sqlite data to google sheets. Detailed guide is in appendix section below. After following the guide, you should include the json file in your project directory.
 
 #### How to create user interface using PyQt easily without programming?
 
@@ -125,10 +125,12 @@ Raspberry PI5 has a great ability to process computer vision functionalities smo
 Please make sure to properly download the libraries otherwise it will cause error while running the software.
 
 
+
 ## Appendix
 
 Reference to connect your sqlite database to google sheets - 
 https://medium.com/learning-sql/how-to-use-a-google-spreadsheet-as-a-database-3c6f85eea78e
+
 
 
 
