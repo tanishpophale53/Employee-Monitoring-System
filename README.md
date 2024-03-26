@@ -30,13 +30,13 @@ Nowadays, many companies are using a stop and wait attendance system to mark the
 
 ## Working Methodology
 
-#### User FlowChart
+### User FlowChart
 
 ![EMS FlowChart](https://github.com/tanishpophale53/Employee-Monitoring-System/assets/71888416/e5e846d1-828b-40a5-87b9-fb830ead970c)
 
 
 
-#### Sign Up Page (Registration Page) : 
+### Sign Up Page (Registration Page) : 
 
 ![Raksha EMS - Registration Image](https://github.com/tanishpophale53/Employee-Monitoring-System/assets/71888416/3dffe7f8-11fb-464a-9f2b-3942fe4d729e)
 
@@ -48,7 +48,7 @@ The sign up page contains a small capture window which captures the user's face 
 
 
 
-#### Landing Page ( Home Page): 
+### Landing Page ( Home Page): 
 
 ![Raksha EMS - HomeImage](https://github.com/tanishpophale53/Employee-Monitoring-System/assets/71888416/5c47e60a-adb9-4032-b795-eb7bfb261f4a)
 
@@ -57,7 +57,7 @@ Our website typically allows users to navigate to a sign up page or dashboard pa
 
 
 
-#### Dashboard Page ( Report Window): 
+### Dashboard Page ( Report Window): 
 
 ![Raksha EMS - Dashboard Image](https://github.com/tanishpophale53/Employee-Monitoring-System/assets/71888416/ca211cd1-d038-4248-beba-c1b25d4c1749)
 
