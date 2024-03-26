@@ -3,7 +3,7 @@
 
 # Raksha - Employee Monitoring System
 
-Nowadays, many companies are using a stop and wait attendance system to mark the attendance of the employees in a company which includes either an app to mark the attendance when the employee comes in the office premise or their is a system which scans the face of the employee for which employee needs to wait and mark the attendance. Sometimes, if a bunch of employees come at a time, then these employees need to wait to mark their attendance which takes a minimum of 5 to 10 minutes. When it comes to a company's point of view, then these 5 to 10 minutes or more of each employee can be a trot to the company. What if these 5 to 10 minutes of each employee in the worst case can be saved. So to address the above problem, the software named as Employee Monitoring System can be game changing for companies which provides the real time employee monitoring feature reducing 5 to 10 minutes of employees time. The employee need not have to wait to mark the attendance. As the employee is moving towards the entrance gate, the software through the camera attached over the entrance gate will automatically catch the employee's face and the attendance will be marked for that day.
+Nowadays, many companies are using a stop and wait attendance system to mark the attendance of the employees in a company which includes either an app to mark the attendance when the employee comes in the office premise or there is a system which scans the face of the employee for which employee needs to wait and mark the attendance. Sometimes, if a bunch of employees come at a time, then these employees need to wait to mark their attendance which takes a minimum of 5 to 10 minutes. When it comes to a company's point of view, then these 5 to 10 minutes or more of each employee can be a trot to the company. What if these 5 to 10 minutes of each employee in the worst case can be saved. So to address the above problem, the software named as Employee Monitoring System can be game changing for companies which provides the real time employee monitoring feature reducing 5 to 10 minutes of employees time. The employee need not have to wait to mark the attendance. As the employee is moving towards the entrance gate, the software through the camera attached over the entrance gate will automatically catch the employee's face and the attendance will be marked for that day.
 
 
 
@@ -15,7 +15,8 @@ Nowadays, many companies are using a stop and wait attendance system to mark the
 - Data accessibility through Google Sheets
 - Efficient data filtering search functions based on the users preference
 - Improved attendance processes, eliminating 5 to 10   minutes of unnecessary waiting time per employee
-- If a employee goes inside the office and comes back outside and then again goes in the office, then that employee attendance will be marked only once if the employee does this activity within 10 minutes of first attendance mark. This 10 minutes of duration is customizable based on the companies requirement.
+- If a employee goes inside the office and comes back outside and then again goes in the office, then that employee attendance will be marked only once if the employee does this
+  activity within 10 minutes of the first attendance mark. This 10 minutes of duration is customizable based on the company's requirement.
 
 
 
@@ -109,11 +110,11 @@ https://shorturl.at/aosD8
 
 #### How to connect the sqlite data to google sheets?
 
-One can use pygsheets library of python in order to connect the sqlite data to google sheets. Detailed guide is in appendix section below. After following the guide, you should include the json file in your project directory.
+One can use pygsheets library of python in order to connect the sqlite data to google sheets. Detailed guide is in the appendix section below. After following the guide, you should include the json file in your project directory.
 
-#### How to create user interface using PyQt easily without programming?
+#### How to create a user interface using PyQt easily without programming?
 
-One can easily create user interface using QT Designer software which saves the file as .ui file and can be easily used in development by just importing.
+One can easily create a user interface using QT Designer software which saves the file as a .ui file and can be easily used in development by just importing.
 
 #### How to use the software?
 
@@ -121,14 +122,14 @@ Just download and run the exe file in order to use the software. If you want to 
 
 #### What if I want to deploy the software in Raspberry PI5?
 
-Raspberry PI5 has a great ability to process computer vision functionalities smoothly. So, one needs to just download the requirements.txt file in Raspberry PI5 and run the project files. It will successfully run. If you want to run the software on start up of Raspberry PI5, one can make service file or .sh file.
-Please make sure to properly download the libraries otherwise it will cause error while running the software.
+Raspberry PI5 has a great ability to process computer vision functionalities smoothly. So, one needs to just download the requirements.txt file in Raspberry PI5 and run the project files. It will successfully run. If you want to run the software on startup of Raspberry PI5, one can make a service file or .sh file.
+Please make sure to properly download the libraries otherwise it will cause errors while running the software.
 
 
 
 ## Appendix
 
-Reference to connect your sqlite database to google sheets - 
+Reference to connect your sqlite database to google sheets -
 https://medium.com/learning-sql/how-to-use-a-google-spreadsheet-as-a-database-3c6f85eea78e
 
 
