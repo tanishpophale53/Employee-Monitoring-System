@@ -57,7 +57,7 @@ Our website typically allows users to navigate to a sign up page or dashboard pa
 
 
 
-### Dashboard Page ( Report Window): 
+### Dashboard Page: 
 
 ![Raksha EMS - Dashboard Image](https://github.com/tanishpophale53/Employee-Monitoring-System/assets/71888416/ca211cd1-d038-4248-beba-c1b25d4c1749)
 
